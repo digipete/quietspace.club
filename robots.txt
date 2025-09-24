@@ -14,3 +14,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://quietspace.club/sitemap.xml
+
